@@ -1,0 +1,20 @@
+{
+  "name": "docsify",
+  "version": "1.0.0",
+  "description": "> 我是公司系统文档",
+  "main": "sw.js",
+  "scripts": {
+    "serve": "docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gujinlonghaha/docsifyTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gujinlonghaha/docsifyTest/issues"
+  },
+  "homepage": "https://github.com/gujinlonghaha/docsifyTest#readme"
+}
